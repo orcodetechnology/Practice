@@ -1,6 +1,6 @@
 package JavaCoding;
 
-public class morejavacoding {
+public class MOreJavaCoding {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
